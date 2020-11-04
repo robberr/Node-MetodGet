@@ -1,0 +1,19 @@
+{
+  "name": "node-metod-get",
+  "version": "1.0.0",
+  "description": "Node-MetodGet",
+  "main": "server.js",
+  "author": {
+    "name": "robberr"
+  },
+  "scripts": {
+    "start": "",
+    "dev": "nodemon && server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
